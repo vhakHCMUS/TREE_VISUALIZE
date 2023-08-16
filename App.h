@@ -56,6 +56,7 @@ public:
 	AVL_Tree* mAVL;
 	Hash_Table* mHash;
 	Heap* mHeap;
+	Trie_Tree* mTrie;
 
 	RectangleShape BG1;
 
@@ -63,6 +64,7 @@ public:
 	Button* btnAVL;
 	Button* btnHash;
 	Button* btnHeap;
+	Button* btnTrie;
 
 	GUIGroup* MenuGroup;
 	GUIGroup* StyleGroup;
