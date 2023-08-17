@@ -107,9 +107,6 @@
     <ClInclude Include="Tools\TreeNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Tools\Edge.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Tools\Button.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -152,9 +149,6 @@
     <ClInclude Include="Animation\B_Anime.h">
       <Filter>Animation</Filter>
     </ClInclude>
-    <ClInclude Include="B_tree.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Animation\Trie_Anime.h">
       <Filter>Animation</Filter>
     </ClInclude>
@@ -163,9 +157,6 @@
     </ClInclude>
     <ClInclude Include="Animation\Graph_Anime.h">
       <Filter>Animation</Filter>
-    </ClInclude>
-    <ClInclude Include="Graph.h">
-      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
